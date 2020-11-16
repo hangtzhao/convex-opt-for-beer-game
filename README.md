@@ -1,5 +1,7 @@
 # convex-opt-for-beer-game
-copy rights reserved
+copy rights reserved by ZhaoHangting
+rebecca05240524@163.com
+
 
 python ***code***
 
